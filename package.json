@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app"
   },
-  "author": "Brad Traversy",
+  "author": "Gabriel Farias",
   "license": "MIT",
   "dependencies": {
     "ejs": "^2.7.4",
