@@ -1,5 +1,5 @@
 {
-  "name": "node_paypal_sample",
+  "name": "node_paypal",
   "version": "1.0.0",
   "description": "Sample paypal app",
   "main": "app.js",
